@@ -81,7 +81,8 @@ void yyerror(const char *msg) {
 
 
 # Invalid variable
-<img width="1902" height="415" alt="image" src="https://github.com/user-attachments/assets/e4504fb3-5701-4ad8-ba5a-8ed4171d1df8" />
+<img width="1701" height="393" alt="image" src="https://github.com/user-attachments/assets/4b0d37b5-3a8e-455d-a97a-ee5eb9a92818" />
+
 
 # Result
 A YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits is executed successfully and the output is verified.
