@@ -77,7 +77,8 @@ void yyerror(const char *msg) {
 
 # Output
 # Valid variable
-<img width="1704" height="377" alt="image" src="https://github.com/user-attachments/assets/27c58b08-198e-4659-bf7d-7835301a1650" />
+<img width="1711" height="391" alt="image" src="https://github.com/user-attachments/assets/8a294959-b08b-440a-ac67-f909302bc86b" />
+
 
 
 # Invalid variable
